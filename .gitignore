@@ -1,0 +1,8 @@
+# misc
+.env
+
+# dependencies
+node_modules
+
+#carga
+uploads
